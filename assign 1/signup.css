@@ -1,0 +1,6 @@
+.signup-btn {
+    height:40px;
+    width:120px;
+    border-color: #ccc;
+  background-image: linear-gradient(to right,rgb(18, 63, 136),rgb(229, 105, 105));
+    color: #fefcfc;}
